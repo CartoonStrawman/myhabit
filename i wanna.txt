@@ -1,0 +1,23 @@
+    Q1:Importance&Urgent	|	Q2:Importance& Not Urgent
+				|
+1.keep fit			|
+2.English speaking		|
+3.python study			|
+4.QT				|
+5.study swimming    		|
+				|
+				|
+________________________________|____________________________________________________________
+     Q3:Urgent&Not Importance   |        Q4£º
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
